@@ -1,0 +1,17 @@
+.half-line{
+  height: 2px;
+  width: 42%;
+  background-color: black;
+}
+
+.googleBtn{
+  background-color: rgb(188, 245, 226);
+  border-radius: 25px;
+  padding: 10px 40px;
+  border: 1px solid gray;
+  font-weight: 600;
+  width: 100%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  
+}
